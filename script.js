@@ -10,6 +10,7 @@ let guessCount = 1;
 let resetButton;
 guessField.focus();
 
+
 guessSubmit.addEventListener('click', checkGuess);
 //douessField.addEventListener('keyup', checkGuess);
 
