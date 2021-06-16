@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+    
+}
+
+.lastResult {
+    font-family: 'helvetica neue', helvetica, sans-serif;
+    display: inline-block;
+    padding: 5px 10px;
+    letter-spacing: 1px;
+}
